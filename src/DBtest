@@ -1,0 +1,14 @@
+public class DBtest extends Test {
+    @Override
+    public void icraEt() {
+        System.out.println("Database testi icra olunur...");
+    }
+
+    public static void main(String[] args) {
+        Test[] testler = { new UITest(), new APITest(), new DBtest() };
+
+        for (Test t : testler) {
+            t.icraEt();
+        }
+    }
+}

@@ -1,4 +1,4 @@
-package Homework8;
+/*package Homework8;
 
 public class Tapsiriq10 {
     public static void main(String[] args) {
@@ -14,4 +14,4 @@ public class Tapsiriq10 {
         System.out.println("Ən kiçik bal: " + ballar[minIndex]);
         System.out.println("Ən kiçik balın indeksi: " + minIndex);
     }
-}
+}*/
